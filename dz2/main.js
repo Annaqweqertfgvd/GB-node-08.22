@@ -12,6 +12,6 @@ function countdown(){
 
 let timer;
 let x =10
-countdown(); // вызов функции
+countdown(); // вызов функцииsdf
 
 console.log('Изменения')
